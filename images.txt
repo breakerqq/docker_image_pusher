@@ -1,4 +1,4 @@
-dify:latest
+langgenius/dify:latest
 postgres:13-alpine
 redis:6.2-alpine
 nginx:latest
